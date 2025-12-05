@@ -184,7 +184,7 @@ on:
           - 6.6.115
           - 6.12.47
       auto_kernel:
-        description: "自动使用最新内核（未匹配则自动）"
+        description: "自动使用最新内核：未匹配则自动"
         required: false
         default: true
         type: boolean
